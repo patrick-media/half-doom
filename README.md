@@ -13,4 +13,4 @@ Complete use-key functionality (Source / GoldSrc style)\
 Complete textures\
 Weapon sysem\
 Make levels\
-Enemies: AI & models\
+Enemies: AI & models
