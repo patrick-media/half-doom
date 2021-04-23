@@ -17,7 +17,7 @@ Enemies: AI & models\
 \
 DOWNLOADING:\
 Navigate to the desired folder to download.\
-Use https://downgit.github.io/ and paste the folder path (full URL) into the textbox.\
+Use https://downgit.github.io/ (doesn't work on school computers) and paste the folder path (full URL) into the textbox.\
 Download the folder.\
 \
 EDITING PROJECT:\
