@@ -13,4 +13,15 @@ Complete use-key functionality (Source / GoldSrc style)\
 Complete textures\
 Weapon sysem\
 Make levels\
-Enemies: AI & models
+Enemies: AI & models\
+\
+DOWNLOADING:\
+Navigate to the desired folder to download.\
+Use https://downgit.github.io/ and paste the folder path (full URL) into the textbox.\
+Download the folder.\
+\
+EDITING PROJECT:\
+Download the desired folder.\
+Unzip Assets.zip and place in a folder named "Assets".\
+Unzip all Library#.zip files and place in folder named "Library".\
+Open Unity and select "Open Project". Open the folder and begin editing.\
