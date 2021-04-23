@@ -1,0 +1,7 @@
+PLEASE USE THIS NAMING SCHEME:
+MM-DD-YYYY_YOURNAME_NUMBER
+Example:
+4-22-21_patrick_1
+The second upload on this day would be:
+4-22-21_patrick_2
+And so on. thx
