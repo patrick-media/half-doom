@@ -1,3 +1,16 @@
+TO ADD FILES:
+Make a folder using the naming scheme below.
+DO NOT UPLOAD BUILDS HERE. THEY TAKE UP A LOT OF SPACE AND WILL SLOW YOUR UPLOAD. MINE WITH 8 BUILDS IS ALREADY 400 MB.
+IMPOTRANT FOLDERS/FILES TO ADD:
+.vs
+Assets
+Library
+obj
+Packages
+ProjectSettings
+Assembly-CSharp.csproj
+Half-Doom.sln
+
 PLEASE USE THIS NAMING SCHEME:
 MM-DD-YYYY_YOURNAME_NUMBER
 Example:
