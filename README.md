@@ -25,11 +25,15 @@ Weapon sysem (Half-Life style, DOOM II concept):\
   Multiplayer only:\
   Lightning gun (focused cells)\
 \
+Multiplayer:\
+ Half-Life HUD style by default\
+ Add the ability to force one style (force DOOM II only-horizontal viewing, or force Half-Life any-direction viewing)\
+\
 Make levels\
 Saving / Loading\
 Enemies: AI & models\
 \
-DOWNLOADING:\
+DOWNLOADING PROJECT:\
 Navigate to the desired folder to download.\
 Use https://downgit.github.io/ (doesn't work on school computers) and paste the folder path (full URL) into the textbox.\
 Download the folder.\
@@ -40,3 +44,7 @@ Download the desired folder.\
 Unzip Assets.zip and place in a folder named "Assets".\
 Unzip all Library#.zip files and place in folder named "Library".\
 Open Unity and select "Open Project". Open the folder and begin editing.\
+\
+DOWNLOADING BUILD:\
+Follow the steps to download a project.\
+All files must be downloaded to the same directory.
