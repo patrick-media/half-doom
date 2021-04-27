@@ -1,4 +1,0 @@
-PLEASE FOLLOW THIS NAMING SCHEME:
-Increment each folder by 1 each time a build is uploaded.
-A patch notes file is recommended, but not required.
-1 major change may be put in the commit notes of the folder.
