@@ -9,7 +9,6 @@ Complete UI functionality:\
   sometimes esc doesn't escape prompts\
   sometimes Y doesn't quit the game when prompted\
 \
-Add option to switch in-game HUD to GoldSrc (Half-Life) style or id Tech 1 (DOOM II) style.\
 Complete use-key functionality (Source / GoldSrc style) (somewhat working)\
 Complete textures\
 \
